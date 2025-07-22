@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Anders Dahlheim
 
-I'm a newly graduated systems developer from Malmö University with an interest in backend development, data modeling, and API integration. For my capstone project, I developed a full-stack web application for coordinating carpools and communication within a scout organization, featuring real-time chat, role-based authentication, and a notification system.
+I recently graduated from Malmö University as a systems developer, focusing my studies on backend development, data modeling, and API integration. For my final capstone, I built a full-stack web app that helps a scout organization manage carpools and communication. It includes features such as real-time chat, role-based authentication, and a notification system that alerts users on schedule changes.
 
-As part of my bachelor’s thesis, I developed a tool for visualizing matching configurations and flip graphs. This is a standalone artifact aimed at supporting the study of reconfiguration of plane almost perfect matchings.
+In my bachelor’s thesis, I created a visualization tool for exploring matching configurations and their associated flip graphs. This standalone application is designed to assist researchers studying the reconfiguration of plane almost perfect matchings, allowing them to generate and inspect configurations interactively.
 
-Before transitioning into tech, I worked as a teacher for over 10 years, an experience that helped me build strong communication skills, structure complex work, and deliver during periods of high workload. I'm now actively looking for roles in backend or full-stack development where I can contribute to meaningful and well-crafted software systems.
+Prior to entering tech, I spent more than a decade as a teacher. This background refined my communication abilities, taught me to break down complex topics, and allowed me to maintain quality work under tight deadlines. I am now seeking opportunities in backend or full-stack development, eager to craft resilient, impactful software that meets users’ needs.
 
 ## 🔧 Skills & Technologies
 
