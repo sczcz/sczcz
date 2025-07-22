@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anders Dahlheim
 
-I recently graduated from Malmö University as a systems developer, focusing my studies on backend development, data modeling, and API integration. For my final capstone, I built a full-stack web app that helps a scout organization manage carpools and communication. It includes features such as real-time chat, role-based authentication, and a notification system that alerts users on schedule changes.
+I recently graduated from Malmö University as a systems developer, focusing my studies on backend development, data modeling and API integration. For my final capstone, I built a full-stack web app that helps a scout organization manage carpools and communication. It includes features such as real-time chat, role-based authentication, and a notification system that alerts users on schedule changes.
 
 In my bachelor’s thesis, I created a visualization tool for exploring matching configurations and their associated flip graphs. This standalone application is designed to assist researchers studying the reconfiguration of plane almost perfect matchings, allowing them to generate and inspect configurations interactively.
 
