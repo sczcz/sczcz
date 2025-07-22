@@ -10,7 +10,7 @@ Prior to entering tech, I spent more than a decade as a teacher. This background
 
 - **Languages:** Java, Python, JavaScript/TypeScript, C++
 - **Frameworks:** Flask, React, Spring Boot
-- **Tools:** PostgreSQL, Git, Docker, Socket.IO, Azure
+- **Tools:** PostgreSQL, Git, Maven, Docker, Socket.IO, Azure
 - **Other:** REST APIs, data modeling, authentication, usability testing
 
 ## 📌 Highlight Projects
