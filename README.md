@@ -15,8 +15,8 @@ Prior to entering tech, I spent more than a decade as a teacher. This background
 
 ## 📌 Highlight Projects
 
-- [scoutkar](https://github.com/yourusername/scoutkar) – Capstone project: A carpool coordination platform for a scout organization, including booking system, chat, notifications, and user roles.
-- [thesis-visualization-tool](https://github.com/yourusername/thesis-visualization-tool) – A web-based tool to visualize matchings and flip graphs, developed as an artifact to support the usability testing and evaluation of the Scoutkar platform.
+- [carpool-app](https://github.com/sczcz/carpool-app) – Capstone project: A carpool coordination platform for a scout organization, including booking system, chat, notifications, and user roles.
+- [visualization-tool](https://github.com/sczcz/visualization-tool) – A web-based tool to visualize matchings and flip graphs, developed as an artifact to support the usability testing and evaluation of the Scoutkar platform.
 - More to be added soon
 
 ## 📫 Contact
