@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Anders Dahlheim
+# 👋 Hey, hi, hello - I'm Anders
 
-I recently graduated from Malmö University as a systems developer, focusing my studies on backend development, data modeling and API integration. For my final capstone, I built a full-stack web app that helps a scout organization manage carpools and communication. It includes features such as real-time chat, role-based authentication, and a notification system that alerts users on schedule changes.
+I recently graduated from Malmö University, specializing in systems development, which included backend development, data integration, and API embedding. My final capstone project was a full stack web application to assist a scout organization in managing carpools and overseeing communication in the organization. The application includes features like real-time chat, role-based authentication, and a notification system which alerts users on important changes or events.
 
-In my bachelor’s thesis, I created a visualization tool for exploring matching configurations and their associated flip graphs. This standalone application is designed to assist researchers studying the reconfiguration of plane almost perfect matchings, allowing them to generate and inspect configurations interactively.
+In my bachelor’s thesis, I took a deep dive into discrete mathematics and computational geomtry and developed a standalone application aimed at aiding researchers in the study of plane almost perfect matchings. The application’s main function is to generate configurations and allow researchers to inspect them, thus enhancing the interactive oversight.
 
-Prior to entering tech, I spent more than a decade as a teacher. This background refined my communication abilities, taught me to break down complex topics, and allowed me to maintain quality work under tight deadlines. I am now seeking opportunities in backend or full-stack development, eager to craft resilient, impactful software that meets users’ needs.
+I worked as a teacher for over a decade prior to entering tech. The role helped sharpen my communication skills, taught me to simplify intricate subjects, and helped me deliver quality work within tight deadlines. I am currently looking for work in backend development and full stack development. You can reach out to me on LinkedIn if you feel I could add value to your company.
 
 ## 🔧 Skills & Technologies
 
