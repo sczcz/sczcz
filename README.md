@@ -1,4 +1,4 @@
-# 👋 Hey, hi, hello - I'm Anders
+# About me
 
 I recently graduated from Malmö University, specializing in systems development, which included backend development, data integration, and API embedding. My final capstone project was a full stack web application to assist a scout organization in managing carpools and overseeing communication in the organization. The application includes features like real-time chat, role-based authentication, and a notification system which alerts users on important changes or events.
 
@@ -6,7 +6,7 @@ In my bachelor’s thesis, I took a deep dive into discrete mathematics and comp
 
 I worked as a teacher for over a decade prior to entering tech. The role helped sharpen my communication skills, taught me to simplify intricate subjects, and helped me deliver quality work within tight deadlines. I am currently looking for work in backend development and full stack development. You can reach out to me on LinkedIn if you feel I could add value to your company.
 
-## 🔧 Skills & Technologies
+## 🔧 Things I work with
 
 - **Languages:** Java, Python, JavaScript/TypeScript, C++
 - **Frameworks:** Flask, React, Spring Boot
