@@ -17,7 +17,7 @@ I worked as a teacher for over a decade prior to entering tech. The role helped 
 
 - [carpool-app](https://github.com/sczcz/carpool-app) – Capstone project: A carpool coordination platform for a scout organization, including booking system, chat, notifications, and user roles.
 - [visualization-tool](https://github.com/sczcz/visualization-tool) – A web-based tool to visualize matchings and flip graphs, developed as an artifact to support the usability testing and evaluation of the Scoutkar platform.
-- More to be added soon
+- [marketplace-app](https://github.com/sczcz/marketplace-app) - A prototype for a desktop marketplace application ("Blocket-style") written in Java SE
 
 ## 📫 Contact
 
